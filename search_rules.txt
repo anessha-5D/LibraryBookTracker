@@ -1,0 +1,3 @@
+Title search checks the book title for a matching keyword.
+Author search checks the author name for a matching keyword.
+
